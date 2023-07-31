@@ -1,0 +1,12 @@
+                         1         2
+		12345678901234567890
+Series ID   	FWU00X00000080M70
+
+Positions       Value           Field Name
+1-2             FW              Prefix
+3               U               Seasonal Adjustment Code
+4-6             00X             Category Code
+7-12            000000          Detail Code (Industry, Event or Exposure, Primary Source, Secondary Source, Occupation)
+13              8               Data Type Code
+14              0               Case Type Code
+15-17           M70             Area Code
